@@ -6,3 +6,4 @@ Olivia can anticipate DDoS attacks, optimize Bungeecord servers, and other basic
 
 ## Future ideas
 - All in [What can she do?](https://github.com/Itzky/OliviaServerManager#what-can-she-do)
+- Auth system maybe?
